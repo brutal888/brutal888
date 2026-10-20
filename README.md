@@ -74,7 +74,7 @@ $ cat now.txt
   </tr>
 </table>
 
-<sub>Most of these repos are private. Happy to give a walkthrough. Open source: <a href="https://github.com/brutal888/desire-foundation">desire-foundation</a>, a 9-page React + Three.js site.</sub>
+<sub>Most of these repos are private. Happy to give a walkthrough.</sub>
 
 <br><br>
 
