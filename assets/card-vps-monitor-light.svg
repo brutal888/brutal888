@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="236" viewBox="0 0 480 236" role="img" aria-label="VPS Monitor: Real-time server dashboard, zero npm deps. Live processes, alerts, security, logs."><title>VPS Monitor: Real-time server dashboard, zero npm deps. Live processes, alerts, security, logs.</title><style>
+    .sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace}
+    .spin{animation:spin 6s linear infinite} .slow{animation-duration:14s} .rev{animation-direction:reverse;animation-duration:20s}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .slide{animation:slide 4s linear infinite} @keyframes slide{to{transform:translateX(-70px)}}
+    .pulse{animation:pulse 1.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center} @keyframes pulse{50%{transform:scale(1.8);opacity:.4}}
+    .eqb{animation:eq 1s ease-in-out infinite alternate;transform-box:fill-box;transform-origin:center} @keyframes eq{from{transform:scaleY(.25)}to{transform:scaleY(1)}}
+    .tok{animation:tok 1.8s cubic-bezier(.2,.8,.2,1) infinite;opacity:0} @keyframes tok{0%{opacity:0;transform:translateY(6px)}30%,70%{opacity:1;transform:none}100%{opacity:0}}
+    .b1{animation:pop 3s ease-in-out infinite} .b2{animation:pop 3s ease-in-out infinite;animation-delay:1.2s}
+    @keyframes pop{0%,10%{opacity:0;transform:translateY(4px)}25%,85%{opacity:1;transform:none}100%{opacity:0}}
+    .dot{animation:dot 1s ease-in-out infinite} @keyframes dot{50%{transform:translateY(-3px)}}
+    .sweep{animation:sweep 5s cubic-bezier(.45,0,.2,1) infinite} @keyframes sweep{0%{transform:translateX(-200px)}60%,100%{transform:translateX(480px)}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+    <defs><clipPath id="f"><rect width="480" height="236" rx="18"/></clipPath>
+      <linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#4a5ee0" stop-opacity="0"/><stop offset=".5" stop-color="#4a5ee0" stop-opacity=".9"/><stop offset="1" stop-color="#4a5ee0" stop-opacity="0"/></linearGradient>
+      <radialGradient id="gl"><stop offset="0" stop-color="#4a5ee0" stop-opacity=".22"/><stop offset="1" stop-color="#4a5ee0" stop-opacity="0"/></radialGradient></defs>
+    <g clip-path="url(#f)">
+      <rect width="480" height="236" fill="#f7f8fa"/>
+      <circle cx="420" cy="40" r="170" fill="url(#gl)" opacity=".35"/>
+      <rect class="sweep" y="0" width="200" height="2" fill="url(#sw)"/>
+    </g>
+    <rect x=".5" y=".5" width="479" height="235" rx="18" fill="none" stroke="#e2e5eb"/>
+    <circle cx="33" cy="36" r="4.5" fill="#4a5ee0"/>
+    <text x="46" y="41" class="mono" font-size="13.5" letter-spacing=".6" fill="#5b6475">PRIVATE · self-hosted</text>
+    <text x="27" y="88" class="sans" font-size="31" font-weight="700" letter-spacing="-.6" fill="#14161c">VPS Monitor</text>
+    <text x="28" y="124" class="sans" font-size="17.5" fill="#5b6475">Real-time server dashboard, zero npm deps.</text><text x="28" y="150" class="sans" font-size="17.5" fill="#5b6475">Live processes, alerts, security, logs.</text>
+    <rect x="28" y="182" width="81" height="30" rx="15" fill="#f0f2f5" stroke="#e2e5eb"/><text x="39" y="202" class="mono" font-size="14" fill="#5b6475">Node.js</text><rect x="116.8" y="182" width="47" height="30" rx="15" fill="#f0f2f5" stroke="#e2e5eb"/><text x="127.8" y="202" class="mono" font-size="14" fill="#5b6475">SSE</text><rect x="172.0" y="182" width="114" height="30" rx="15" fill="#f0f2f5" stroke="#e2e5eb"/><text x="183.0" y="202" class="mono" font-size="14" fill="#5b6475">node:sqlite</text><rect x="294.4" y="182" width="106" height="30" rx="15" fill="#f0f2f5" stroke="#e2e5eb"/><text x="305.4" y="202" class="mono" font-size="14" fill="#5b6475">SVG charts</text>
+    <g transform="translate(352,36)"><clipPath id="sc"><rect width="70" height="40"/></clipPath><g clip-path="url(#sc)"><g class="slide"><path d="M0.0,16.6 C4.4,16.6 4.4,21.0 8.8,21.0 C13.1,21.0 13.1,19.6 17.5,19.6 C21.9,19.6 21.9,30.5 26.2,30.5 C30.6,30.5 30.6,31.3 35.0,31.3 C39.4,31.3 39.4,16.4 43.8,16.4 C48.1,16.4 48.1,14.5 52.5,14.5 C56.9,14.5 56.9,16.5 61.2,16.5 C65.6,16.5 65.6,9.2 70.0,9.2 C74.4,9.2 74.4,16.2 78.8,16.2 C83.1,16.2 83.1,30.7 87.5,30.7 C91.9,30.7 91.9,26.9 96.2,26.9 C100.6,26.9 100.6,23.0 105.0,23.0 C109.4,23.0 109.4,26.4 113.8,26.4 C118.1,26.4 118.1,15.1 122.5,15.1 C126.9,15.1 126.9,6.1 131.2,6.1 C135.6,6.1 135.6,16.6 140.0,16.6" fill="none" stroke="#4a5ee0" stroke-width="2"/></g></g><circle cx="70" cy="20" r="3" fill="#4a5ee0" class="pulse"/></g>
+    </svg>

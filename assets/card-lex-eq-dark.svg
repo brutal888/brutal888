@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="236" viewBox="0 0 480 236" role="img" aria-label="Lex EQ: Decoded a USB-C DAC&#x27;s HID protocol and replaced its vendor app with a Kotlin one."><title>Lex EQ: Decoded a USB-C DAC&#x27;s HID protocol and replaced its vendor app with a Kotlin one.</title><style>
+    .sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace}
+    .spin{animation:spin 6s linear infinite} .slow{animation-duration:14s} .rev{animation-direction:reverse;animation-duration:20s}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .slide{animation:slide 4s linear infinite} @keyframes slide{to{transform:translateX(-70px)}}
+    .pulse{animation:pulse 1.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center} @keyframes pulse{50%{transform:scale(1.8);opacity:.4}}
+    .eqb{animation:eq 1s ease-in-out infinite alternate;transform-box:fill-box;transform-origin:center} @keyframes eq{from{transform:scaleY(.25)}to{transform:scaleY(1)}}
+    .tok{animation:tok 1.8s cubic-bezier(.2,.8,.2,1) infinite;opacity:0} @keyframes tok{0%{opacity:0;transform:translateY(6px)}30%,70%{opacity:1;transform:none}100%{opacity:0}}
+    .b1{animation:pop 3s ease-in-out infinite} .b2{animation:pop 3s ease-in-out infinite;animation-delay:1.2s}
+    @keyframes pop{0%,10%{opacity:0;transform:translateY(4px)}25%,85%{opacity:1;transform:none}100%{opacity:0}}
+    .dot{animation:dot 1s ease-in-out infinite} @keyframes dot{50%{transform:translateY(-3px)}}
+    .sweep{animation:sweep 5s cubic-bezier(.45,0,.2,1) infinite} @keyframes sweep{0%{transform:translateX(-200px)}60%,100%{transform:translateX(480px)}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+    <defs><clipPath id="f"><rect width="480" height="236" rx="18"/></clipPath>
+      <linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#ffb95e" stop-opacity="0"/><stop offset=".5" stop-color="#ffb95e" stop-opacity=".9"/><stop offset="1" stop-color="#ffb95e" stop-opacity="0"/></linearGradient>
+      <radialGradient id="gl"><stop offset="0" stop-color="#ffb95e" stop-opacity=".22"/><stop offset="1" stop-color="#ffb95e" stop-opacity="0"/></radialGradient></defs>
+    <g clip-path="url(#f)">
+      <rect width="480" height="236" fill="#11141b"/>
+      <circle cx="420" cy="40" r="170" fill="url(#gl)" opacity=".55"/>
+      <rect class="sweep" y="0" width="200" height="2" fill="url(#sw)"/>
+    </g>
+    <rect x=".5" y=".5" width="479" height="235" rx="18" fill="none" stroke="#232836"/>
+    <circle cx="33" cy="36" r="4.5" fill="#ffb95e"/>
+    <text x="46" y="41" class="mono" font-size="13.5" letter-spacing=".6" fill="#8b93a7">ANDROID · reverse-engineered</text>
+    <text x="27" y="88" class="sans" font-size="31" font-weight="700" letter-spacing="-.6" fill="#eceef3">Lex EQ</text>
+    <text x="28" y="124" class="sans" font-size="17.5" fill="#8b93a7">Decoded a USB-C DAC&#x27;s HID protocol and</text><text x="28" y="150" class="sans" font-size="17.5" fill="#8b93a7">replaced its vendor app with a Kotlin one.</text>
+    <rect x="28" y="182" width="72" height="30" rx="15" fill="#161a23" stroke="#232836"/><text x="39" y="202" class="mono" font-size="14" fill="#8b93a7">Kotlin</text><rect x="108.4" y="182" width="123" height="30" rx="15" fill="#161a23" stroke="#232836"/><text x="119.4" y="202" class="mono" font-size="14" fill="#8b93a7">USB Host API</text><rect x="239.20000000000002" y="182" width="47" height="30" rx="15" fill="#161a23" stroke="#232836"/><text x="250.20000000000002" y="202" class="mono" font-size="14" fill="#8b93a7">HID</text><rect x="294.40000000000003" y="182" width="81" height="30" rx="15" fill="#161a23" stroke="#232836"/><text x="305.40000000000003" y="202" class="mono" font-size="14" fill="#8b93a7">Actions</text>
+    <g transform="translate(422,56)"><rect x="-28" y="-22" width="7" height="44" rx="3" fill="#ffb95e" class="eqb" style="animation-delay:-0.00s;animation-duration:0.90s"/><rect x="-16" y="-22" width="7" height="44" rx="3" fill="#ffb95e" class="eqb" style="animation-delay:-0.23s;animation-duration:1.07s"/><rect x="-4" y="-22" width="7" height="44" rx="3" fill="#ffb95e" class="eqb" style="animation-delay:-0.46s;animation-duration:1.24s"/><rect x="8" y="-22" width="7" height="44" rx="3" fill="#ffb95e" class="eqb" style="animation-delay:-0.69s;animation-duration:1.41s"/><rect x="20" y="-22" width="7" height="44" rx="3" fill="#ffb95e" class="eqb" style="animation-delay:-0.92s;animation-duration:1.58s"/></g>
+    </svg>
